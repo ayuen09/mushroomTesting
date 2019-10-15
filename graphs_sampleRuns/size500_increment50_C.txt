@@ -1,0 +1,82 @@
+Please enter a training set size (a positive multiple of 250 that is <= 1000): 500
+Please enter a training increment (either 10, 25, or 50):50
+Please enter a heuristic to use (either [C]ounting-based or [I]nformation theoretic): C
+Loading Property Information from file.
+Loading Data from database.
+Collecting set of 250 training examples.
+Running with 50 examples in training set
+
+Given current tree, there are 5061 correct classifications out of 5144 possible (a success rate of 0.9839 percent).
+
+Running with 100 examples in training set
+
+Given current tree, there are 5076 correct classifications out of 5144 possible (a success rate of 0.9868 percent).
+
+Running with 150 examples in training set
+
+Given current tree, there are 5076 correct classifications out of 5144 possible (a success rate of 0.9868 percent).
+
+Running with 200 examples in training set
+
+Given current tree, there are 5082 correct classifications out of 5144 possible (a success rate of 0.9879 percent).
+
+Running with 250 examples in training set
+
+Given current tree, there are 5082 correct classifications out of 5144 possible (a success rate of 0.9879 percent).
+
+Running with 300 examples in training set
+
+Given current tree, there are 5082 correct classifications out of 5144 possible (a success rate of 0.9879 percent).
+
+Running with 350 examples in training set
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 0.9971 percent).
+
+Running with 400 examples in training set
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 0.9971 percent).
+
+Running with 450 examples in training set
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 0.9971 percent).
+
+Running with 500 examples in training set
+
+Given current tree, there are 5129 correct classifications out of 5144 possible (a success rate of 0.9971 percent).
+
+FINAL TREE
+
+'Attri:odor' 'Parent Value: ' 'Guess: e'
+        'Attri:final' 'Value: a' 'Guess: e'
+        'Attri:final' 'Value: l' 'Guess: e'
+        'Attri:final' 'Value: c' 'Guess: p'
+        'Attri:final' 'Value: y' 'Guess: e'
+        'Attri:final' 'Value: f' 'Guess: p'
+        'Attri:final' 'Value: m' 'Guess: p'
+        'Attri:spore print color' 'Parent Value: n' 'Guess: e'
+                'Attri:final' 'Value: k' 'Guess: e'
+                'Attri:final' 'Value: n' 'Guess: e'
+                'Attri:final' 'Value: b' 'Guess: e'
+                'Attri:final' 'Value: h' 'Guess: e'
+                'Attri:final' 'Value: r' 'Guess: p'
+                'Attri:final' 'Value: o' 'Guess: e'
+                'Attri:final' 'Value: u' 'Guess: e'
+                'Attri:final' 'Value: w' 'Guess: e'
+                'Attri:final' 'Value: y' 'Guess: e'
+        'Attri:final' 'Value: p' 'Guess: p'
+        'Attri:final' 'Value: s' 'Guess: e'
+
+
+
+STATISTICS
+
+Training set size: 50 Success: 98.3865 percent.
+Training set size: 100 Success: 98.6781 percent.
+Training set size: 150 Success: 98.6781 percent.
+Training set size: 200 Success: 98.7947 percent.
+Training set size: 250 Success: 98.7947 percent.
+Training set size: 300 Success: 98.7947 percent.
+Training set size: 350 Success: 99.7084 percent.
+Training set size: 400 Success: 99.7084 percent.
+Training set size: 450 Success: 99.7084 percent.
+Training set size: 500 Success: 99.7084 percent.
